@@ -1,5 +1,8 @@
+audit log - журнал
 consent - согласие
 cookie - куки-файл
 dashboard - панель управления
-log file - журнал
-log system - система журналирования
+log file - файл логов
+log system - система логирования
+logger - логгер
+privacy - персональные данные
