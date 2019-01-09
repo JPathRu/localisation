@@ -1,0 +1,47 @@
+{
+  "name": "joomla-3x-russian",
+  "description": "Joomla 3.x Russian Translation",
+  "version": "3.9.1",
+  "homepage": "http://joomlaportal.ru",
+  "author": "Sergey M. Litvinov <smart@joomlaportal.ru>",
+  "contributors": [],
+  "license": "GPL-2.0",
+  "keywords": [
+    "joomla",
+    "translation",
+    "russian"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/joomlaportal_ru/jtranslation3x.git"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "gulp_copyright": "gulp copyright",
+    "gulp_version": "gulp version"
+  },
+  "dependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.1",
+    "replace": "^0.3.0"
+  },
+  "joomla": {
+    "version": "3.9.1"
+  },
+  "translation": {
+    "version": "7",
+    "admin": {
+      "description": "Russian language pack (administrator) for Joomla! 3.9.1"
+    },
+    "site": {
+      "description": "Russian language pack (site) for Joomla! 3.9.1"
+    },
+    "package": {
+      "description": "Joomla 3.9 Russian Language Package"
+    }
+  },
+  "devDependencies": {
+    "gulp-replace": "^0.5.4",
+    "gulp-zip": "^3.2.0"
+  }
+}
