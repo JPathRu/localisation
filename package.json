@@ -1,7 +1,7 @@
 {
   "name": "joomla-3x-russian",
   "description": "Joomla 3.x Russian Translation",
-  "version": "3.9.4",
+  "version": "3.9.5",
   "homepage": "http://joomlaportal.ru",
   "author": "Sergey M. Litvinov <smart@joomlaportal.ru>",
   "contributors": [],
@@ -22,19 +22,19 @@
   },
   "dependencies": {
     "del": "^1.2.1",
-    "gulp": "^3.9.4",
+    "gulp": "^3.9.5",
     "replace": "^0.3.0"
   },
   "joomla": {
-    "version": "3.9.4"
+    "version": "3.9.5"
   },
   "translation": {
     "version": "1",
     "admin": {
-      "description": "Russian language pack (administrator) for Joomla! 3.9.4"
+      "description": "Russian language pack (administrator) for Joomla! 3.9.5"
     },
     "site": {
-      "description": "Russian language pack (site) for Joomla! 3.9.4"
+      "description": "Russian language pack (site) for Joomla! 3.9.5"
     },
     "package": {
       "description": "Joomla 3.9 Russian Language Package"
