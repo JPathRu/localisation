@@ -22,19 +22,19 @@
   },
   "dependencies": {
     "del": "^1.2.1",
-    "gulp": "^3.9.5",
+    "gulp": "^3.9.6",
     "replace": "^0.3.0"
   },
   "joomla": {
-    "version": "3.9.5"
+    "version": "3.9.6"
   },
   "translation": {
     "version": "1",
     "admin": {
-      "description": "Russian language pack (administrator) for Joomla! 3.9.5"
+      "description": "Russian language pack (administrator) for Joomla! 3.9.6"
     },
     "site": {
-      "description": "Russian language pack (site) for Joomla! 3.9.5"
+      "description": "Russian language pack (site) for Joomla! 3.9.6"
     },
     "package": {
       "description": "Joomla 3.9 Russian Language Package"
