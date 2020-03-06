@@ -3,10 +3,10 @@
 	version="3.7"
 	client="installation">
 	<name>Русский (Russia)</name>
-	<version>3.8.2</version>
-	<creationDate>Октябрь 2017</creationDate>
-	<author>Проект Joomla!</author>
-	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
+	<version>3.9.12.1</version>
+	<creationDate>Октябрь 2019</creationDate>
+	<author>Russian Translation Team</author>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<files>
 		<filename>ru-RU.ini</filename>
