@@ -2,7 +2,7 @@
 <extension type="package" version="3.7" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>3.9.12.1</version>
+	<version>3.9.12</version>
 	<creationDate>Октябрь 2019</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
