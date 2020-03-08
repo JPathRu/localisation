@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile
-	version="3.7"
-	client="installation">
+<metafile version="3.7" client="installation">
 	<name>Русский (Russia)</name>
 	<version>3.9.12</version>
 	<creationDate>Октябрь 2019</creationDate>
