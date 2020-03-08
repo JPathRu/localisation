@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.7" client="installation">
-	<name>Русский (Russia)</name>
+	<name>Russian (ru-RU)</name>
+	<tag>ru-RU</tag>
 	<version>3.9.12</version>
 	<creationDate>Октябрь 2019</creationDate>
 	<author>Russian Translation Team</author>
@@ -10,8 +11,8 @@
 		<filename>ru-RU.ini</filename>
 	</files>
 	<metadata>
-		<name>Русский (Россия)</name>
-		<nativeName>Русский (Russia)</nativeName>
+		<name>Russian (ru-RU)</name>
+		<nativeName>Русский (Россия)</nativeName>
 		<tag>ru-RU</tag>
 		<rtl>0</rtl>
 	</metadata>
