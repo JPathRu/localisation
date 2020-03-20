@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.7" client="site">
-	<name>Русский (Россия)</name>
-	<version>3.8.2</version>
-	<creationDate>Октябрь 2017</creationDate>
-	<author>Проект Joomla!</author>
+	<name>Russian (ru-RU)</name>
+	<tag>ru-RU</tag>
+	<version>3.9.12</version>
+	<creationDate>Октябрь 2019</creationDate>
+	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>www.joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description><![CDATA[ru-RU язык сайта]]></description>
+	<description><![CDATA[Пакет русского языка (сайт) для Joomla!]]></description>
 	<metadata>
-		<name>Русский (Россия)</name>
-		<nativeName>Russian (Russia)</nativeName>
+		<name>Russian (ru-RU)</name>
+		<nativeName>Русский (Россия)</nativeName>
 		<tag>ru-RU</tag>
 		<rtl>0</rtl>
-		<locale>ru-RU.utf8, ru-RU.UTF-8, ru_RU.utf8, ru-RU.UTF-8, ru-RU, ru_RU, ru, russian, russian-ru</locale>
+		<locale>ru-RU.utf8, ru-RU.UTF-8, ru_RU.utf8, ru_RU.UTF-8, ru-RU, ru_RU, ru, russian, russian-ru</locale>
 		<firstDay>1</firstDay>
 		<weekEnd>0,6</weekEnd>
 		<calendar>gregorian</calendar>
