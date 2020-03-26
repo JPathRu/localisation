@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="package" version="3.7" method="upgrade">
+<extension type="package" version="3.9" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>3.9.12</version>
-	<creationDate>Октябрь 2019</creationDate>
+	<version>3.9.16.1</version>
+	<creationDate>2020-03-27</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>www.joomlaportal.ru</authorUrl>

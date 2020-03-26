@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.7" client="administrator">
+<metafile version="3.9" client="administrator">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>3.9.12</version>
-	<creationDate>Октябрь 2019</creationDate>
+	<version>3.9.16.1</version>
+	<creationDate>2020-03-27</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>www.joomlaportal.ru</authorUrl>
