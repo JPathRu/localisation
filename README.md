@@ -19,3 +19,5 @@
 Репозиторий поддерживается официальным российским сообществом Joomla.
 
 [Joomlaportal.ru](https://joomlaportal.ru) 
+
+[Официальня страница локализации](https://joomlaportal.ru/russian-joomla) 
