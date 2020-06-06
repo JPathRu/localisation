@@ -1,8 +1,8 @@
 {
   "name": "joomla-3x-russian",
   "description": "Joomla 3.x Russian Translation",
-  "version": "3.9.18.1",
-  "homepage": "http://joomlaportal.ru",
+  "version": "3.9.19.1",
+  "homepage": "https://joomlaportal.ru",
   "author": "Sergey M. Litvinov <smart@joomlaportal.ru>",
   "contributors": [],
   "license": "GPL-2.0",
@@ -26,15 +26,15 @@
     "replace": "^0.3.0"
   },
   "joomla": {
-    "version": "3.9.18"
+    "version": "3.9.19"
   },
   "translation": {
     "version": "1",
     "admin": {
-      "description": "Russian language pack (administrator) for Joomla! 3.9.18"
+      "description": "Russian language pack (administrator) for Joomla! 3.9.19"
     },
     "site": {
-      "description": "Russian language pack (site) for Joomla! 3.9.18"
+      "description": "Russian language pack (site) for Joomla! 3.9.19"
     },
     "package": {
       "description": "<![CDATA[<p>Joomla 3.9.18 Russian Language Package. Это официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p><p>Мы всегда рады помощи с локализацией! Сообщить о проблеме вы можете на нашем <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><p><a href='https://joomlaportal.ru/' target='_blank' class='btn'>Официальный сайт локализаторов</a></p>]]>"
