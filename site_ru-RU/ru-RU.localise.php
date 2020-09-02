@@ -1,9 +1,9 @@
 <?php
 /**
- * @package Joomla.Language
+ * @package	Joomla.Language
  *
- * @copyright Copyright (C) 2005 - 2017 Open Source Matters, Inc. All rights reserved.
- * @license GNU General Public License version 2 or later; see LICENSE.txt
+ * @copyright	Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.
+ * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
 
 defined('_JEXEC') or die;
@@ -11,7 +11,7 @@ defined('_JEXEC') or die;
 use \Joomla\String\StringHelper;
 
 /**
- * ru-RU localise class.
+ * ru-RU localise class
  *
  * @since 1.6
  */
@@ -20,29 +20,31 @@ abstract class Ru_RULocalise
 	/**
 	 * Returns the potential suffixes for a specific number of items
 	 *
-	 * @param integer $count The number of items.
+	 * @param   integer  $count  The number of items
 	 *
-	 * @return  array  An array of potential suffixes.
+	 * @return  array  An array of potential suffixes
 	 *
-	 * @since 1.6
+	 * @since   1.6
 	 */
 	public static function getPluralSuffixes($count)
 	{
 		if ($count == 0)
 		{
 			$return = array('0');
+
 		} else {
 			$return = array(($count%10==1 && $count%100!=11 ? '1' : ($count%10>=2 && $count%10<=4 && ($count%100<10 || $count%100>=20)? '2' : 'MORE')));
 		}
+
 		return $return;
 	}
 
 	/**
 	 * Returns the ignored search words
 	 *
-	 * @return array An array of ignored search words.
+	 * @return  array  An array of ignored search words
 	 *
-	 * @since 1.6
+	 * @since   1.6
 	 */
 	public static function getIgnoredSearchWords()
 	{
@@ -529,9 +531,9 @@ abstract class Ru_RULocalise
 	/**
 	 * Returns the lower length limit of search words
 	 *
-	 * @return integer The lower length limit of search words.
+	 * @return  integer  The lower length limit of search words
 	 *
-	 * @since 1.6
+	 * @since   1.6
 	 */
 	public static function getLowerLimitSearchWord()
 	{
@@ -541,9 +543,9 @@ abstract class Ru_RULocalise
 	/**
 	 * Returns the upper length limit of search words
 	 *
-	 * @return integer The upper length limit of search words.
+	 * @return  integer  The upper length limit of search words
 	 *
-	 * @since 1.6
+	 * @since   1.6
 	 */
 	public static function getUpperLimitSearchWord()
 	{
@@ -553,9 +555,9 @@ abstract class Ru_RULocalise
 	/**
 	 * Returns the number of chars to display when searching
 	 *
-	 * @return integer The number of chars to display when searching.
+	 * @return  integer  The number of chars to display when searching
 	 *
-	 * @since 1.6
+	 * @since   1.6
 	 */
 	public static function getSearchDisplayedCharactersNumber()
 	{
@@ -566,49 +568,51 @@ abstract class Ru_RULocalise
 	{
 		$str = StringHelper::strtolower($string);
 
-		$glyph_array = array(
-			'a' => 'á,α,ά,ą,ä,ā,а',
-			'b' => 'β,б',
-			'v' => 'в',
-			'g' => 'γ,ğ,ģ,ґ,г',
-			'd' => 'ď,Ď,đ,Đ,δ,ď,ð,д',
-			'e' => 'é,ě,ε,έ,ę,ė,ē,є,э,е',
-			'jo' => 'ё',
-			'zh' => 'ж',
-			'z' => 'ž,ζ,ź,ż,з',
-			'i' => 'í,η,ι,ή,ί,ΐ,ϊ,į,ı,ī,и',
-			'j' => 'й',
-			'k' => 'κ,ķ,к',
-			'l' => 'λ,ł,Ł,ľ,ĺ,ļ,л',
-			'm' => 'μ,м',
-			'n' => 'ň,ν,ń,ň,ņ,ñ,н',
-			'o' => 'ó,ο,ω,ό,ώ,ö,ő,ô,о',
-			'p' => 'π,Π,п',
-			'r' => 'ř,ρ,ŕ,р',
-			's' => 'š,σ,ς,ś,ş,Σ,с',
-			't' => 'ť,τ,ť,т',
-			'u' => 'ú,ů,υ,ύ,ΰ,ϋ,ü,ű,ų,ū,у',
-			'f' => 'φ,Φ,ф',
-			'kh' => 'х',
-			'ts' => 'ц',
-			'ch' => 'ч',
-			'sh' => 'ш',
-			'shch' => 'щ',
-			'' => 'ь',
-			'' => 'ъ',
-			'y' => 'ý,Ý,ы',
-			'yu' => 'ю',
-			'ya' => 'я',
-			'ae' => 'æ',
-			'c' => 'č,ć,ç',
-			'h' => 'η',
-			'ji' => 'ї',
-			'ks' => 'ξ,Ξ',
-			'ň' => 'Ň',
-			'ps' => 'ψ,Ψ',
-			'ss' => 'ß',
-			'th' => 'θ,þ',
-			'x' => 'χ',
+		$glyph_array = array (
+			'a'	=> 'á,Á,α,ά,ą,Ą,ä,Ä,ā,а',
+			'b'	=> 'β,б',
+			'v'	=> 'в',
+			'g'	=> 'γ,ğ,Ğ,ģ,ґ,г',
+			'd'	=> 'ď,Ď,đ,Đ,δ,ð,д',
+			'e'	=> 'ě,Ě,ε,έ,é,É,ë,Ë,ę,Ę,ē,е,є,э',
+			'jo'	=> 'ё',
+			'zh'	=> 'ж',
+			'z'	=> 'ž,Ž,ź,Ź,ζ,з',
+			'i'	=> 'í,Í,η,ή,ι,ί,í,Í,į,и,і',
+			'ji'	=> 'ї',
+			'j'	=> 'й',
+			'k'	=> 'к',
+			'l'	=> 'λ,Λ,ł,Ł,ľ,Ľ,ĺ,Ĺ,ļ,л',
+			'm'	=> 'μ,м',
+			'n'	=> 'ń,Ń,ň,Ň,ñ,Ñ,ņ,н',
+			'o'	=> 'ó,Ó,ω,Ώ,ώ,ö,Ö,ő,Ő,ô,Ô,о',
+			'p'	=> 'π,п',
+			'r'	=> 'ř,Ř,ŕ,Ŕ,ρ,р',
+			's'	=> 'š,Š,σ,ς,ś,Ś,ş,с',
+			't'	=> 'ť,Ť,τ,ť,т',
+			'u'	=> 'ú,Ú,ů,Ů,υ,ύ,ϋ,Ü,ü,ű,Ű,ų,ū,ΰ,у',
+			'f'	=> 'φ,ф',
+			'kh'	=> 'х',
+			'ts'	=> 'ц',
+			'ch'	=> 'ч',
+			'sh'	=> 'ш',
+			'shch'	=> 'щ',
+			''	=> 'ъ,ь',
+			'y'	=> 'ý,Ý,ы',
+			'yu'	=> 'ю',
+			'ya'	=> 'я',
+
+			'ae'	=> 'æ,Æ',
+			'c'	=> 'č,Č,ć,Ć,ç',
+			'ks'	=> 'ξ,Ξ',
+			'ps'	=> 'ψ,Ψ',
+			'ss'	=> 'ß',
+			'x'	=> 'χ',
+
+			'eur'	=> '€',
+			'rub'	=> '₽',
+			'uah'	=> '₴',
+			'usd'	=> '$',
 		);
 
 		foreach ($glyph_array as $letter => $glyphs) {
