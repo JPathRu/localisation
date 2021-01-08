@@ -2,7 +2,7 @@
 /**
  * @package	Joomla.Language
  *
- * @copyright	Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.
+ * @copyright	Copyright (C) 2005 - 2021 Open Source Matters, Inc. All rights reserved.
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
 
@@ -34,6 +34,7 @@ abstract class Ru_RULocalise
 
 		} else {
 			$return = array(($count%10==1 && $count%100!=11 ? '1' : ($count%10>=2 && $count%10<=4 && ($count%100<10 || $count%100>=20)? '2' : 'MORE')));
+
 		}
 
 		return $return;
@@ -615,7 +616,8 @@ abstract class Ru_RULocalise
 			'usd'	=> '$',
 		);
 
-		foreach ($glyph_array as $letter => $glyphs) {
+		foreach ($glyph_array as $letter => $glyphs)
+		{
 			$glyphs = explode(',', $glyphs);
 			$str = StringHelper::str_ireplace($glyphs, $letter, $str);
 		}
