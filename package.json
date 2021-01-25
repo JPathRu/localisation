@@ -37,7 +37,7 @@
       "description": "Russian language pack (site) for Joomla! 3.9.24"
     },
     "package": {
-      "description": "<![CDATA[<p>Joomla 3.9.24 Russian Language Package. Это официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p><p>Мы всегда рады помощи с локализацией! Сообщить о проблеме вы можете на нашем <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><p><a href='https://joomlaportal.ru/' target='_blank' class='btn'>Официальный сайт локализаторов</a></p>]]>"
+      "description": "<![CDATA[<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'><h3 style='font-weight: 400'>Joomla 3.9.24 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p><p>Мы всегда рады помощи с локализацией! Сообщить о проблеме вы можете на нашем <a style='text-decoration: underline' href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><p><a href='https://joomlaportal.ru/' target='_blank' class='btn'>Официальный сайт локализаторов</a></p></div>]]>"
     }
   },
   "devDependencies": {
