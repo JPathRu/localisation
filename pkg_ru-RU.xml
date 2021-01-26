@@ -12,16 +12,7 @@
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Project</packager>
 	<packagerurl>https://joomla.org</packagerurl>
-	<description>
-		<![CDATA[
-		<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'>
-		<h3 style='font-weight: 400'>Joomla 3.9.23 Russian Language Pack</h3>
-		<p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p>
-		<p>Мы всегда рады помощи с локализацией! Сообщить о проблеме или дополнить локализацию вы можете на странице <a style='text-decoration: underline' href='https://github.com/JPathRu/localisation' target='_blank'>GitHub</a>.</p>
-		<p><a href='https://joomlaportal.ru' class='btn' target='_blank'>Портал Joomla! по-русски</a>&#160;<a href='https://joomlaportal.ru/russian-joomla' class='btn' target='_blank'>Страница локализации</a></p>
-		</div>
-		]]>
-	</description>
+	<description><![CDATA[Russian (ru-RU) language pack for Joomla]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="ru-RU">site_ru-RU</folder>
