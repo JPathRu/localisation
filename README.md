@@ -15,9 +15,12 @@
 ## Другие файлы
 [Глоссарий](glossary) - основные термины, используемые в переводе для единообразия терминологии.
 
+## Локализация Joomla 4
+Работа по локализации Joomla 4 ведется в ветке j4.
+
 ##
 Репозиторий поддерживается официальным российским сообществом Joomla.
 
-[Joomlaportal.ru](https://joomlaportal.ru) 
+[Joomlaportal.ru](https://joomlaportal.ru)
 
-[Официальня страница локализации](https://joomlaportal.ru/russian-joomla) 
+[Официальня страница локализации](https://joomlaportal.ru/russian-joomla)
