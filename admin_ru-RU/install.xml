@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.9" client="administrator" type="language" method="upgrade">
+<extension client="administrator" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>3.9.23.1</version>
-	<creationDate>08/01/2021</creationDate>
+	<version>4.0.0-Beta7</version>
+	<creationDate>2020-03-19</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2021 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<copyright>Copyright (C) 2005 - 2021 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later</license>
 	<description><![CDATA[<p>Russian language pack (administrator) for Joomla!</p>]]></description>
 	<files>
 		<folder>/</folder>
 		<filename file="meta">install.xml</filename>
-		<filename file="meta">ru-RU.xml</filename>
+		<filename file="meta">langmetadata.xml</filename>
 	</files>
 	<params />
 </extension>
