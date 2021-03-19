@@ -4,8 +4,8 @@
 	<version>4.0.0-Beta5</version>
 	<creationDate>2020-11-25</creationDate>
 	<author>Russian Translation Team</author>
-	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<copyright>Copyright (C) 2005 - 2021 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later</license>
 	<files>
 		<filename>joomla.ini</filename>
 	</files>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="package" version="4.0" method="upgrade">
+<extension type="package" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
 	<version>4.0.0-Beta7</version>
-	<creationDate>2020-03-18</creationDate>
+	<creationDate>2020-03-19</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2021 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2021 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Project</packager>
