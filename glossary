@@ -1,15 +1,15 @@
-audit log - журнал
+﻿actions log - лог действий
+association - связь / связь элементов
+behaviour - поведение
 consent - согласие
-cookie - куки-файл
+cookie - cookie (не переводим)
 dashboard - панель управления
 log file - файл логов
 log system - система логирования
 logger - логгер
+options - параметры
+permission - права доступа
 privacy - персональные данные
-actions log - лог действий
-content - материалы
-
-
-J4!
-Behaviour - Поведение
-Workflow - Рабочий процесс
+stage - этап
+transition - переход
+workflow - процесс / рабочий процесс
