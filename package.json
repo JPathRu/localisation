@@ -31,16 +31,16 @@
   "translation": {
 	"version": "1",
 	"admin": {
-	"description": "Russian language pack (administrator) for Joomla! 4.0.0-Beta 7"
+	"description": "Russian language pack (administrator) for Joomla! 4.0.0 RC1"
     },
     "api": {
-	"description": "Russian language pack (api) for Joomla! 4.0.0-Beta 7"
+	"description": "Russian language pack (api) for Joomla! 4.0.0 RC1"
     },
     "site": {
-	"description": "Russian language pack (site) for Joomla! 4.0.0-Beta 7"
+	"description": "Russian language pack (site) for Joomla! 4.0.0 RC1"
     },
     "package": {
-	"description": "<![CDATA[<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'><h3 style='font-weight: 400'>Joomla 4.0.0-Beta 7 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p><p>Мы всегда рады помощи с локализацией! Сообщить о проблеме вы можете на странице <a style='text-decoration: underline' href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><p><a href='https://joomlaportal.ru' class='btn' target='_blank'>Портал Joomla! по-русски</a> <a href='https://joomlaportal.ru/russian-joomla' class='btn' target='_blank'>Страница локализации</a></p></div>]]>"
+	"description": "<![CDATA[<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'><h3 style='font-weight: 400'>Joomla 4.0.0 RC1 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.</p><p>Мы всегда рады помощи с локализацией! Сообщить о проблеме вы можете на странице <a style='text-decoration: underline' href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><p><a href='https://joomlaportal.ru' class='btn' target='_blank'>Портал Joomla! по-русски</a> <a href='https://joomlaportal.ru/russian-joomla' class='btn' target='_blank'>Страница локализации</a></p></div>]]>"
     }
   },
   "devDependencies": {

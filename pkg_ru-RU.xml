@@ -2,8 +2,8 @@
 <extension type="package" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>4.0.0-Beta7</version>
-	<creationDate>2020-03-19</creationDate>
+	<version>4.0.0-rc1.1</version>
+	<creationDate>2021-06-02</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
@@ -19,9 +19,7 @@
 		<folder type="language" client="api" id="ru-RU">api_ru-RU</folder>
 		<folder type="language" client="site" id="ru-RU">site_ru-RU</folder>
 	</files>
-	<!--
 	<updateservers>
 		<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_4.xml</server>
 	</updateservers>
-	-->
 </extension>
