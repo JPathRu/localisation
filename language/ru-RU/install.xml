@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension client="site" type="language" method="upgrade">
+	<name>Russian (ru-RU)</name>
+	<tag>ru-RU</tag>
+	<version>4.0.0-rc4.2</version>
+	<creationDate>21/07/2021</creationDate>
+	<author>Russian Translation Team</author>
+	<authorEmail>smart@joomlaportal.ru</authorEmail>
+	<authorUrl>https://joomlaportal.ru</authorUrl>
+	<copyright>Copyright (C) 2005 - 2021 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<description><![CDATA[<p>Russian language pack (site) for Joomla!</p>]]></description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+		<filename file="meta">langmetadata.xml</filename>
+	</files>
+	<params />
+</extension>
