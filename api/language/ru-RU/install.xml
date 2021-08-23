@@ -2,8 +2,8 @@
 <extension client="api" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>4.0.0.1</version>
-	<creationDate>17/08/2021</creationDate>
+	<version>4.0.1.1</version>
+	<creationDate>24/08/2021</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
