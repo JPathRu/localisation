@@ -16,4 +16,4 @@
 - [Чат русскоязычного сообщества в Telegram](https://t.me/projoomla).
 
 ## Дополнительные файлы
-- [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-4/Glossary.md) - основные термины, используемые в переводе для единообразия терминологии.
+- [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-4/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
