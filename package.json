@@ -1,7 +1,7 @@
 {
   "name": "joomla-3x-russian",
   "description": "Joomla 3.x Russian Translation",
-  "version": "3.10.5",
+  "version": "3.10.6",
   "homepage": "https://joomlaportal.ru",
   "author": "Dmitry Rekun <smart@joomlaportal.ru>",
   "contributors": [],
@@ -22,22 +22,22 @@
   },
   "dependencies": {
     "del": "^1.2.1",
-    "gulp": "^3.10.5",
+    "gulp": "^3.10.6",
     "replace": "^0.3.0"
   },
   "joomla": {
-    "version": "3.10.5"
+    "version": "3.10.6"
   },
   "translation": {
     "version": "1",
     "admin": {
-      "description": "Russian language pack (administrator) for Joomla! 3.10.5"
+      "description": "Russian language pack (administrator) for Joomla! 3.10.6"
     },
     "site": {
-      "description": "Russian language pack (site) for Joomla! 3.10.5"
+      "description": "Russian language pack (site) for Joomla! 3.10.6"
     },
     "package": {
-      "description": "<![CDATA[<div class='alert alert-info' style='font-weight: 400'><h3 style='font-weight: 400'>Joomla 3.10.5 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]>"
+      "description": "<![CDATA[<div class='alert alert-info' style='font-weight: 400'><h3 style='font-weight: 400'>Joomla 3.10.6 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]>"
     }
   },
   "devDependencies": {

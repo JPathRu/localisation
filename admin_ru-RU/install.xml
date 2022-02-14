@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.9" client="administrator" type="language" method="upgrade">
+<extension version="3.10" client="administrator" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>3.10.5.1</version>
-	<creationDate>18/01/2022</creationDate>
+	<version>3.10.6.1</version>
+	<creationDate>15/02/2022</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
