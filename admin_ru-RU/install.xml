@@ -2,8 +2,8 @@
 <extension version="3.10" client="administrator" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>3.10.6.1</version>
-	<creationDate>15/02/2022</creationDate>
+	<version>3.10.7.1</version>
+	<creationDate>29/03/2022</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
