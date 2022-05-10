@@ -2,8 +2,8 @@
 <extension type="package" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>4.1.1.1</version>
-	<creationDate>29/03/2022</creationDate>
+	<version>4.1.3.1</version>
+	<creationDate>10.05.2022</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
@@ -12,7 +12,7 @@
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Project</packager>
 	<packagerurl>https://joomla.org</packagerurl>
-	<description><![CDATA[<h3 style='font-weight: 400'>Joomla 4.1.1 Russian Language Pack</h3><div style='font-weight: 400'><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]></description>
+	<description><![CDATA[<h3 style='font-weight: 400'>Joomla 4.1.3 Russian Language Pack</h3><div style='font-weight: 400'><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="administrator" id="ru-RU">administrator/language/ru-RU</folder>
