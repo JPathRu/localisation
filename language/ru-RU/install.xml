@@ -2,7 +2,7 @@
 <extension client="site" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>4.2.2</version>
+	<version>4.2.3</version>
 	<creationDate>2022-09</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
