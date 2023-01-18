@@ -30,10 +30,10 @@ abstract class Ru_RULocalise
 	{
 		if ($count == 0)
 		{
-			$return = array('0');
+			$return = ['0'];
 
 		} else {
-			$return = array(($count%10==1 && $count%100!=11 ? '1' : ($count%10>=2 && $count%10<=4 && ($count%100<10 || $count%100>=20)? '2' : 'MORE')));
+			$return = [($count%10==1 && $count%100!=11 ? '1' : ($count%10>=2 && $count%10<=4 && ($count%100<10 || $count%100>=20)? '2' : 'MORE'))];
 
 		}
 
@@ -44,7 +44,7 @@ abstract class Ru_RULocalise
 	{
 		$str = StringHelper::strtolower($string);
 
-		$glyph_array = array (
+		$glyph_array = [
 			'a'	=> 'á,Á,α,ά,ą,Ą,ä,Ä,ā,а',
 			'b'	=> 'β,б',
 			'v'	=> 'в',
@@ -89,7 +89,7 @@ abstract class Ru_RULocalise
 			'rub'	=> '₽',
 			'uah'	=> '₴',
 			'usd'	=> '$',
-		);
+		];
 
 		foreach ($glyph_array as $letter => $glyphs)
 		{
