@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile client="administrator">
 	<name>Russian (ru-RU)</name>
-	<version>4.2.5</version>
-	<creationDate>2022-11</creationDate>
+	<version>4.2.7</version>
+	<creationDate>2023-01</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2022 Open Source Matters, Inc.</copyright>
+	<copyright>Copyright (C) 2005 - 2023 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<description><![CDATA[<p>Russian language pack (administrator) for Joomla!</p>]]></description>
 	<metadata>
