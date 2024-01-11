@@ -2,12 +2,12 @@
 <extension client="api" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>5.0.0</version>
-	<creationDate>2023-11</creationDate>
+	<version>5.0.2</version>
+	<creationDate>2024-01</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2023 Open Source Matters, Inc.</copyright>
+	<copyright>Copyright (C) 2005 - 2024 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<description><![CDATA[<p>Russian language pack (api) for Joomla!</p>]]></description>
 	<files>
