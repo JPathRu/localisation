@@ -2,7 +2,7 @@
 /**
  * @package	Joomla.Language
  *
- * @copyright	(C) 2005 - 2023 Open Source Matters, Inc. <https://www.joomla.org>
+ * @copyright	(C) 2005 - 2024 Open Source Matters, Inc. <https://www.joomla.org>
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
 
@@ -46,6 +46,8 @@ abstract class Ru_RULocalise
 	 * @return  array  An array of ignored search words
 	 *
 	 * @since   1.6
+	 *
+	 * @deprecated  5.1  will be removed in 7.0 without replacement
 	 */
 	public static function getIgnoredSearchWords()
 	{
@@ -535,6 +537,8 @@ abstract class Ru_RULocalise
 	 * @return  integer  The lower length limit of search words
 	 *
 	 * @since   1.6
+	 *
+	 * @deprecated  5.1  will be removed in 7.0 without replacement
 	 */
 	public static function getLowerLimitSearchWord()
 	{
@@ -547,6 +551,8 @@ abstract class Ru_RULocalise
 	 * @return  integer  The upper length limit of search words
 	 *
 	 * @since   1.6
+	 *
+	 * @deprecated  5.1  will be removed in 7.0 without replacement
 	 */
 	public static function getUpperLimitSearchWord()
 	{
@@ -559,6 +565,8 @@ abstract class Ru_RULocalise
 	 * @return  integer  The number of chars to display when searching
 	 *
 	 * @since   1.6
+	 *
+	 * @deprecated  5.1  will be removed in 7.0 without replacement
 	 */
 	public static function getSearchDisplayedCharactersNumber()
 	{
