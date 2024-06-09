@@ -1,7 +1,7 @@
 {
   "name": "joomla-3x-russian",
   "description": "Joomla 3.x Russian Translation",
-  "version": "3.10.11",
+  "version": "3.10.12",
   "homepage": "https://joomlaportal.ru",
   "author": "Dmitry Rekun <smart@joomlaportal.ru>",
   "contributors": [],
@@ -22,11 +22,11 @@
   },
   "dependencies": {
     "del": "^1.2.1",
-    "gulp": "^3.10.11",
+    "gulp": "^3.10.12",
     "replace": "^0.3.0"
   },
   "joomla": {
-    "version": "3.10.11"
+    "version": "3.10.12"
   },
   "translation": {
     "version": "1",
@@ -37,7 +37,7 @@
       "description": "Russian language pack (site) for Joomla!"
     },
     "package": {
-      "description": "<![CDATA[<div class='alert alert-info' style='font-weight: 400'><h3 style='font-weight: 400'>Joomla 3.10.11 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]>"
+      "description": "<![CDATA[<div class='alert alert-info' style='font-weight: 400'><h3 style='font-weight: 400'>Joomla 3.10.12 Russian Language Pack</h3><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla! Сообщить о проблеме или внести исправление вы можете на странице <a href='https://github.com/JPathRu/localisation' target='_blank'>Github</a>.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>.</li></ul></div>]]>"
     }
   },
   "devDependencies": {

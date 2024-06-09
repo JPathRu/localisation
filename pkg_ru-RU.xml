@@ -2,12 +2,12 @@
 <extension version="3.10" type="package" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>3.10.11.1</version>
-	<creationDate>16.08.2022</creationDate>
+	<version>3.10.12.1</version>
+	<creationDate>09.06.2024</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2022 Open Source Matters, Inc.</copyright>
+	<copyright>Copyright (C) 2005 - 2024 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Project</packager>
