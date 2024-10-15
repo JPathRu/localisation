@@ -5,7 +5,7 @@
 
 Мы рады предложениям и помощи в локализации Joomla. Если вы обнаружили ошибку или хотите внести исправление, пожалуйста, создайте [Issue](https://github.com/JPathRu/localisation/issues/new).
 
-Работа по локализации Joomla 3 осуществляется в ветке [joomla-3](https://github.com/JPathRu/localisation/tree/joomla-3), по локализации Joomla 4 - в ветке [joomla-4](https://github.com/JPathRu/localisation/tree/joomla-4).
+Работа по локализации Joomla 4 осуществляется в ветке [joomla-4](https://github.com/JPathRu/localisation/tree/joomla-4).
 
 ## Ресурсы русскоязычного сообщества
 :white_check_mark: [Портал Joomla по-русски](https://joomlaportal.ru),  
