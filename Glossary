@@ -5,6 +5,8 @@ consent - согласие
 cookie - cookie (не переводим)
 cron / webcron - cron / webcron (не переводим)
 dashboard - панель управления
+download key - ключ доступа
+guidedtours - обучающие туры
 logger - логгер
 log file - файл логов
 log system - система логирования
@@ -12,6 +14,7 @@ options - параметры
 permission - права доступа
 privacy - персональные данные
 scheduled tasks - планировщик задач
+schema.org - schema.org (не переводим)
 stage - этап
 transition - переход
 web service - веб-служба
