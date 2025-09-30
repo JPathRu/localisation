@@ -3,7 +3,7 @@
 
 Мы рады предложениям и помощи в локализации Joomla. Если вы обнаружили ошибку или хотите внести исправление, пожалуйста, создайте [Issue](https://github.com/JPathRu/localisation/issues/new).
 
-Работа по локализации Joomla 5 осуществляется в ветке [joomla-5](https://github.com/JPathRu/localisation/tree/joomla-5).
+Работа по локализации Joomla 6 осуществляется в ветке [joomla-6](https://github.com/JPathRu/localisation/tree/joomla-6).
 
 ## Ресурсы русскоязычного сообщества
 :white_check_mark: [Портал Joomla по-русски](https://joomlaportal.ru),  
@@ -16,4 +16,5 @@
 :white_check_mark: [Чат Joomla YOOtheme Pro в Telegram](https://t.me/yoothemepro_joomla).  
 
 ## Дополнительные файлы
-:white_check_mark: [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-5/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
+:white_check_mark: [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-6/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
+
