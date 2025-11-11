@@ -2,8 +2,8 @@
 <extension type="package" method="upgrade">
 	<name>Russian (ru-RU) Language Pack</name>
 	<packagename>ru-RU</packagename>
-	<version>5.3.4.1</version>
-	<creationDate>2025-09</creationDate>
+	<version>5.4.0.1</version>
+	<creationDate>2025-11</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
@@ -12,7 +12,7 @@
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla! Project</packager>
 	<packagerurl>https://joomla.org</packagerurl>
-	<description><![CDATA[<h3 style='font-weight: 400'>Joomla 5.3.4 Russian Language Pack</h3><div style='font-weight: 400'><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla. Если вы обнаружили ошибку или хотите внести исправление, пожалуйста, создайте <a href='https://github.com/JPathRu/localisation/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://forum.joomla.org/viewforum.php?f=26' target='_blank'>Официальный форум русской поддержки на Joomla.org</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>,</li><li><a href='https://t.me/joomlafeed' target='_blank'>Канал новостей Joomla в Telegram</a>,</li><li><a href='https://t.me/joomlaru' target='_blank'>Чат Joomla по-русски в Telegram</a>,</li><li><a href='https://t.me/projoomla' target='_blank'>Чат Joomla для профессионалов в Telegram</a>,</li><li><a href='https://t.me/yoothemepro_joomla' target='_blank'>Чат Joomla YOOtheme Pro в Telegram</a>.</li></ul></div>]]></description>
+	<description><![CDATA[<h3 style='font-weight: 400'>Joomla 5.4.0 Russian Language Pack</h3><div style='font-weight: 400'><p>Официальная локализация Joomla, которая поддерживается русскоязычным сообществом.<br>Мы рады предложениям и помощи в локализации Joomla. Если вы обнаружили ошибку или хотите внести исправление, пожалуйста, создайте <a href='https://github.com/JPathRu/localisation/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://joomlaportal.ru' target='_blank'>Портал Joomla по-русски</a>,</li><li><a href='https://joomlaforum.ru' target='_blank'>Форум русской поддержки Joomla</a>,</li><li><a href='https://forum.joomla.org/viewforum.php?f=26' target='_blank'>Официальный форум русской поддержки на Joomla.org</a>,</li><li><a href='https://joomlaportal.ru/russian-joomla' target='_blank'>Официальная страница локализации</a>,</li><li><a href='https://t.me/joomlafeed' target='_blank'>Канал новостей Joomla в Telegram</a>,</li><li><a href='https://t.me/joomlaru' target='_blank'>Чат Joomla по-русски в Telegram</a>,</li><li><a href='https://t.me/projoomla' target='_blank'>Чат Joomla для профессионалов в Telegram</a>,</li><li><a href='https://t.me/yoothemepro_joomla' target='_blank'>Чат Joomla YOOtheme Pro в Telegram</a>.</li></ul></div>]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="administrator" id="ru-RU">administrator/language/ru-RU</folder>
