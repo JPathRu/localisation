@@ -20,6 +20,6 @@
 		<folder type="language" client="site" id="ru-RU">language/ru-RU</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_5.xml</server>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_6.xml</server>
 	</updateservers>
 </extension>
