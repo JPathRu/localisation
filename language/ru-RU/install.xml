@@ -2,12 +2,12 @@
 <extension client="site" type="language" method="upgrade">
 	<name>Russian (ru-RU)</name>
 	<tag>ru-RU</tag>
-	<version>5.4.1</version>
-	<creationDate>2025-11</creationDate>
+	<version>5.4.6</version>
+	<creationDate>2026-05</creationDate>
 	<author>Russian Translation Team</author>
 	<authorEmail>smart@joomlaportal.ru</authorEmail>
 	<authorUrl>https://joomlaportal.ru</authorUrl>
-	<copyright>Copyright (C) 2005 - 2025 Open Source Matters, Inc.</copyright>
+	<copyright>Copyright (C) 2005 - 2026 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<description><![CDATA[<p>Russian language pack (site) for Joomla!</p>]]></description>
 	<files>
